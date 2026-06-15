@@ -156,7 +156,7 @@ with tab1:
     unsafe_allow_html=True
 )
     st.markdown("""
-EmpowerHER is a Streamlit web app that uses an XGBoost model trained on the Breast Cancer Surveillance Consortium **BCSC** cohort https://www.bcsc-research.org/index.php/datasets/rf/ to deliver personalized breast cancer risk predictions—combining your demographic and clinical inputs into an easy-to-understand probability score and actionable guidance. Predictions may be less reliable for populations under-represented e.g. certain ethnic groups.""")
+Breast cancer is still the most common cancer among US women. EmpowerHER is a Streamlit web app that uses an XGBoost model trained on the Breast Cancer Surveillance Consortium **BCSC** cohort https://www.bcsc-research.org/index.php/datasets/rf/ to deliver personalized breast cancer risk predictions—combining your demographic and clinical inputs into an easy-to-understand probability score and actionable guidance. Predictions may be less reliable for populations under-represented e.g. certain ethnic groups.""")
     st.markdown(
     """
     <div style="text-align:left; margin: 20px 0;">
@@ -184,9 +184,9 @@ When you hear things like"overall accuracy", “precision” or “70% recall,�
 
 """)
 # USA breast cancer statistics 2025
-    st.subheader("Current US Breast Cancer Statistics in 2025 from American Cancer Society")
-    new_cases = "317,000"
-    deaths = "42,680"
+    st.subheader("Current US Breast Cancer Statistics in 2026 from American Cancer Society, Asian American women are more likely than some other groups to be diagnosed at a localized stage, when breast cancer is more treatable")
+    new_cases = "321,910"
+    deaths = "42,140"
     incidence = "130.8 new cases per 100,000 women"
 
     st.metric("Estimated New invasive cases (2025)", new_cases)
