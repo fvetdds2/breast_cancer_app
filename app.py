@@ -189,9 +189,9 @@ When you hear things like"overall accuracy", “precision” or “70% recall,�
     deaths = "42,140"
     incidence = "130.8 new cases per 100,000 women"
 
-    st.metric("Estimated New invasive cases (2025)", new_cases)
-    st.metric("Estimated Breast cancer deaths (2025)", deaths)
-    st.metric("Age-adjusted incidence rate (females) (2025)", incidence)
+    st.metric("Estimated New invasive cases (2026)", new_cases)
+    st.metric("Estimated Breast cancer deaths (2026)", deaths)
+    st.metric("Age-adjusted incidence rate (females) (2026)", incidence)
 
 # work flowchart 
     st.subheader("Key Visual Summaries")
