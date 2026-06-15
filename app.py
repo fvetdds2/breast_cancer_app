@@ -347,6 +347,6 @@ with tab4:
     st.sidebar.header("About Me")
     st.sidebar.markdown("""
 Hi there—I’m Dollada Srisai. My journey from neuroscientist to data scientist has been guided not just by numbers, but by the resilience I witnessed living alongside cancer survivors. Those firsthand experiences taught me that behind every data point is a story of courage and hope. With a PhD in Neuroscience, veterinary medicine training, and hands-on expertise in machine learning and clinical research, I’m dedicated to turning complex insights into compassionate support—helping people truly understand, navigate, and thrive through their cancer journeys.
-📬 ddsrisai@gmail.com | 🔗 https://www.linkedin.com/in/dollada-srisai/ | 🐙 https://github.com/fvetdds 
+📬 ddsrisai@gmail.com | 🔗 https://www.linkedin.com/in/dollada-srisai/ | 🐙 https://github.com/fvetdds2 
 
 """)
